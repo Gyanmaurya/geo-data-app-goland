@@ -1,0 +1,336 @@
+{
+     "type": "FeatureCollection",
+     "features": [
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.981149, 40.754024]
+         },
+         "properties": {
+           "name": "Location 1",
+           "description": "This is location 1"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.984719, 40.756679]
+         },
+         "properties": {
+           "name": "Location 2",
+           "description": "This is location 2"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.980554, 40.759535]
+         },
+         "properties": {
+           "name": "Location 3",
+           "description": "This is location 3"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.976872, 40.757136]
+         },
+         "properties": {
+           "name": "Location 4",
+           "description": "This is location 4"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.989719, 40.758679]
+         },
+         "properties": {
+           "name": "Location 5",
+           "description": "This is location 5"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.991149, 40.754874]
+         },
+         "properties": {
+           "name": "Location 6",
+           "description": "This is location 6"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.982719, 40.757279]
+         },
+         "properties": {
+           "name": "Location 7",
+           "description": "This is location 7"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.981049, 40.755999]
+         },
+         "properties": {
+           "name": "Location 8",
+           "description": "This is location 8"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.973719, 40.760679]
+         },
+         "properties": {
+           "name": "Location 9",
+           "description": "This is location 9"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.975149, 40.758024]
+         },
+         "properties": {
+           "name": "Location 10",
+           "description": "This is location 10"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.978719, 40.756679]
+         },
+         "properties": {
+           "name": "Location 11",
+           "description": "This is location 11"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.980554, 40.754535]
+         },
+         "properties": {
+           "name": "Location 12",
+           "description": "This is location 12"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.981872, 40.757136]
+         },
+         "properties": {
+           "name": "Location 13",
+           "description": "This is location 13"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.987719, 40.758679]
+         },
+         "properties": {
+           "name": "Location 14",
+           "description": "This is location 14"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.981149, 40.759024]
+         },
+         "properties": {
+           "name": "Location 15",
+           "description": "This is location 15"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.983719, 40.753679]
+         },
+         "properties": {
+           "name": "Location 16",
+           "description": "This is location 16"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.982554, 40.754535]
+         },
+         "properties": {
+           "name": "Location 17",
+           "description": "This is location 17"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.975872, 40.756136]
+         },
+         "properties": {
+           "name": "Location 18",
+           "description": "This is location 18"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.986719, 40.759679]
+         },
+         "properties": {
+           "name": "Location 19",
+           "description": "This is location 19"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.979149, 40.758024]
+         },
+         "properties": {
+           "name": "Location 20",
+           "description": "This is location 20"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.982719, 40.753279]
+         },
+         "properties": {
+           "name": "Location 21",
+           "description": "This is location 21"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.984049, 40.755999]
+         },
+         "properties": {
+           "name": "Location 22",
+           "description": "This is location 22"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.973719, 40.760279]
+         },
+         "properties": {
+           "name": "Location 23",
+           "description": "This is location 23"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.974149, 40.757024]
+         },
+         "properties": {
+           "name": "Location 24",
+           "description": "This is location 24"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.985719, 40.754679]
+         },
+         "properties": {
+           "name": "Location 25",
+           "description": "This is location 25"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.982554, 40.759535]
+         },
+         "properties": {
+           "name": "Location 26",
+           "description": "This is location 26"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.983872, 40.757136]
+         },
+         "properties": {
+           "name": "Location 27",
+           "description": "This is location 27"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.986719, 40.758679]
+         },
+         "properties": {
+           "name": "Location 28",
+           "description": "This is location 28"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.981149, 40.757024]
+         },
+         "properties": {
+           "name": "Location 29",
+           "description": "This is location 29"
+         }
+       },
+       {
+         "type": "Feature",
+         "geometry": {
+           "type": "Point",
+           "coordinates": [-73.987719, 40.753679]
+         },
+         "properties": {
+           "name": "Location 30",
+           "description": "This is location 30"
+         }
+       }
+     ]
+   }
+   

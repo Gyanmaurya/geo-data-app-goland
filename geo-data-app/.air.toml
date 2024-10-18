@@ -1,0 +1,15 @@
+# .air.toml
+root = "."
+tmp_dir = "tmp"
+
+[build]
+  bin = "tmp/main"            # binary output path
+  cmd = "go build -o ./tmp/main ./..."  # command to build
+  include_ext = ["go", "html", "tmpl", "css", "js"]  # file extensions to watch
+
+[watch]
+  include_dir = ["." ]  # directories to watch
+  exclude_dir = ["tmp"]  # directories to ignore
+
+[color]
+  enable = true  # enable color in output

@@ -1,0 +1,14 @@
+/* src/styles.css */
+.App {
+     text-align: center;
+   }
+   
+   .file-upload {
+     margin: 20px 0;
+   }
+   
+   .leaflet-container {
+     width: 100%;
+     height: 600px;
+     margin: 20px auto;
+   }
